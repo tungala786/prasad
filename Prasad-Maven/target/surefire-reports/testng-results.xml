@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mysuite" duration-ms="56664" started-at="2020-01-21T13:46:22Z" finished-at="2020-01-21T13:47:19Z">
+    <groups>
+    </groups>
+    <test name="myTest" duration-ms="56664" started-at="2020-01-21T13:46:22Z" finished-at="2020-01-21T13:47:19Z">
+      <class name="myPack.Prasad">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Prasad@1ba5a14]" name="addEmp" duration-ms="40199" started-at="2020-01-21T19:16:22Z" finished-at="2020-01-21T19:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Prasad@1ba5a14]" name="deleteEmp" duration-ms="1" started-at="2020-01-21T19:17:02Z" finished-at="2020-01-21T19:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Prasad@1ba5a14]" name="editEmp" duration-ms="0" started-at="2020-01-21T19:17:02Z" finished-at="2020-01-21T19:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Prasad@1ba5a14]" name="verifyLogin" duration-ms="16430" started-at="2020-01-21T19:17:02Z" finished-at="2020-01-21T19:17:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- myPack.Prasad -->
+    </test> <!-- myTest -->
+  </suite> <!-- mysuite -->
+</testng-results>
